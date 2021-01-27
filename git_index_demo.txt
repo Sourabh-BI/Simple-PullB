@@ -1,0 +1,11 @@
+
+>> Object Reference in Java
+
+Person p = new Person("Bruce Wayne");
+Person batman = p;
+Person ceoOfWayneIndustries = p;
+
+
+
+---- But, -1 for revealing Batman's secret identity.
+
